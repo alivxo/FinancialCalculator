@@ -45,7 +45,7 @@ public class financialcalculator {
             return monthlyPayments;
 
     }
-        // Calculator 1 -- Future Calulator
+        // Calculator 2 -- Future Calulator
         public static double FutureCalculator() {
 
         Scanner sc2 = new Scanner(System.in);
